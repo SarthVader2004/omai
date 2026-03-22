@@ -58,7 +58,7 @@ Response Generation + Voice Output
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/omai.git
+git clone https://github.com/SarthVader2004/omai.git
 cd omai
 ```
 
